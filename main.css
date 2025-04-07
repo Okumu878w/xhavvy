@@ -1,0 +1,145 @@
+.menu{
+    margin-left: 300px;
+    margin-top: 40px;
+    display: grid;
+}
+.men1{
+    align-items: center;
+    display: flex;
+
+}
+img{
+    border-radius: 50%;
+    width: 125px;
+    height: 125px;
+    
+}
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.men2{
+    margin-left: 100px;
+    display: grid;
+}
+.space1{
+    margin-left: 50px;
+    margin-right: 10px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    }
+    .home2{
+        display: flex;
+        background-color: rgb(9, 109, 241);
+        border-radius: 5px;
+        
+    }
+     
+    .space2{
+        margin-left: 300px;
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+    .space{
+        margin-left: 16px;
+        padding: 5px;
+    }
+    .one{
+        margin-left: 16px;
+        margin-top: 12px;
+        
+    }
+    .two{
+        margin-left: 25px;
+        margin-top: 12px;
+        
+        
+    }
+    .home{
+        padding-left: 150px;
+        padding-top: 150px;
+        font-size: 50px;
+        font-weight: bold;
+        color: white;
+    }
+    .hom{
+        padding-left: 150px;
+        font-size: 30px;
+        font-weight: bold;
+        color: white;
+    }
+    
+    
+    .foot1{
+        margin-left: 150px;
+        margin-right: 60px;
+    }
+    .foot{
+       margin-top: 100px;
+    }
+    .foot2{
+        margin-left: 100px;
+        margin-right: 60px;
+    
+    }
+    .foot3{
+        margin-left: 100px;
+        margin-right: 60px;
+    }
+    .foot4{
+        margin-left: 100px;
+        margin-right: 60px;
+    }
+    .ftimg1{
+        width: 30px;
+        height: 30px;
+        border-radius: 20%;
+    }
+    .ftimg2{
+        width: 30px;
+        height: 30px;
+        border-radius: 20%;
+    }
+    .ftimg3{
+        width: 30px;
+        height: 30px;
+        border-radius: 20%;
+    }
+    .ftimg4{
+        width: 30px;
+        height: 30px;
+        border-radius: 20%;
+    }
+    .home1{
+        display: flex;
+        color: white;
+    }
+    .home2{
+        display: flex;
+        background-color: rgb(9, 109, 241);
+        border-radius: 5px;
+        
+    }
+    .space1{
+        padding: 12px;
+        
+    }
+    .btn{
+        border-radius: 5px;
+        padding: 8px;
+        margin: 12px;
+        font-size: 14px;
+    }
+    .butn{
+        border-radius: 5px;
+        padding: 12px;
+        margin: 20px;
+    }
+    .fot{
+        display: flex;
+        color: white;
+        background-color: black;
+    }

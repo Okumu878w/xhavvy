@@ -1,0 +1,169 @@
+img{
+    width: 300px;
+    height: 400px;
+    border-radius: 5px;
+}
+.c1{
+    margin-left: 40px;
+}
+.c2{
+    margin-left: 150px;
+}
+.c3{
+    margin-left: 150px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.c0{
+    display: flex;
+}
+.space1{
+    margin-left: 50px;
+    margin-right: 10px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    }
+    .home2{
+        display: flex;
+        background-color: rgb(9, 109, 241);
+        border-radius: 5px;
+        
+    }
+     
+    .space2{
+        margin-left: 300px;
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+    .space{
+        margin-left: 16px;
+        padding: 5px;
+    }
+    .space{
+        margin-left: 16px;
+        padding: 5px;
+    }
+    .space1{
+        margin-left: 50px;
+        margin-right: 10px;
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+    .space2{
+        margin-left: 300px;
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+    .btn1{
+    border-radius: 40px;
+    border-width: 2px;
+    border-color: rgb(15, 11, 11);
+    margin-left: 150px;
+    background-color: rgb(245, 86, 6, 0.659);
+    font-size: 20px;
+    margin-top: 30px;
+    color: white;
+    }
+        
+        
+    
+    
+   
+    .one{
+        margin-left: 16px;
+        margin-top: 12px;
+        
+    }
+    .two{
+        margin-left: 25px;
+        margin-top: 12px;
+        
+        
+    }
+    .home{
+        padding-left: 150px;
+        padding-top: 150px;
+        font-size: 50px;
+        font-weight: bold;
+        color: white;
+    }
+    .hom{
+        padding-left: 150px;
+        font-size: 30px;
+        font-weight: bold;
+        color: white;
+    }
+    
+    
+    .foot1{
+        margin-left: 150px;
+        margin-right: 60px;
+    }
+    .foot{
+       margin-top: 100px;
+    }
+    .foot2{
+        margin-left: 100px;
+        margin-right: 60px;
+    
+    }
+    .foot3{
+        margin-left: 100px;
+        margin-right: 60px;
+    }
+    .foot4{
+        margin-left: 100px;
+        margin-right: 60px;
+    }
+    .ftimg1{
+        width: 30px;
+        height: 30px;
+        border-radius: 20%;
+    }
+    .ftimg2{
+        width: 30px;
+        height: 30px;
+        border-radius: 20%;
+    }
+    .ftimg3{
+        width: 30px;
+        height: 30px;
+        border-radius: 20%;
+    }
+    .ftimg4{
+        width: 30px;
+        height: 30px;
+        border-radius: 20%;
+    }
+    .home1{
+        display: flex;
+        color: white;
+    }
+    .home2{
+        display: flex;
+        background-color: rgb(9, 109, 241);
+        border-radius: 5px;
+        
+    }
+    .space1{
+        padding: 12px;
+        
+    }
+    .btn{
+        border-radius: 5px;
+        padding: 8px;
+        margin: 12px;
+        font-size: 14px;
+    }
+    .butn{
+        border-radius: 5px;
+        padding: 12px;
+        margin: 20px;
+    }
+    .fot{
+        display: flex;
+        color: white;
+        background-color: black;
+    }
